@@ -7,7 +7,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class ConexionDB {
-	private static final String url = "jdbc:mysql://localhost:3306/died";
+	private static final String url = "jdbc:mysql://localhost:3306/datasets";
 	private static final String user = "root";
 	private static final String pass = "root";
 
